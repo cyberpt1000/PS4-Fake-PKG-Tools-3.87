@@ -2,6 +2,10 @@
 
 ***Patched 3.87 Tools***
 
+***__V7:__*** 
+
+Patched the minimum firmware check so pkgs will not longer show as requiring 7.50 anymore. It should show as 5.05!
+
 ***__V6:__*** 
 
 Keystone will no longer be removed from the project when trying to rebuild a base pkg after a finished pkg or after an error on the same project, let me know if you find any issue with it.
